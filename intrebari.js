@@ -108,3 +108,115 @@ let questions = [{
             "Phonograph cylinder"
         ]
     },
+{
+    numb: 11,
+    question: "How old is the Rock ?",
+    answer: "50 years",
+    options: [
+        "50 years",
+        "45 years",
+        "52 years",
+        "49 years"
+    ]
+},
+{
+    numb: 12,
+    question: "In what year was titanic released ?",
+    answer: "1997",
+    options: [
+        "1998",
+        "1997",
+        "1989",
+        "1999"
+    ]
+},
+{
+    numb: 13,
+    question: "Who played batman in the Dark Night ?",
+    answer: "Christian Bale",
+    options: [
+        "John Travolta",
+        "Chris Hemsworth",
+        "Christian Bale",
+        "Robert De Niro"
+    ]
+},
+{
+    numb: 14,
+    question: "Who is the richest man in the world ?",
+    answer: "Elon Musk",
+    options: [
+        "Warren Buffett",
+        "Bill Gates",
+        "Elon Musk",
+        "Kanie West"
+    ]
+},
+{
+    numb: 15,
+    question: "What is the capital of Israel ?",
+    answer: "Jerusalem",
+    options: [
+        "Jerusalem",
+        "London",
+        "Madrid",
+        "Rome"
+    ]
+},
+{
+    numb: 16,
+    question: "How many years did World War 1 last ?",
+    answer: "4",
+    options: [
+        "2",
+        "5",
+        "4",
+        "3"
+    ]
+},
+{
+    numb: 17,
+    question: "When did the dinosaurs go extinct ?",
+    answer: "65 mil. years ago",
+    options: [
+        "64 mil. years ago",
+        "65 mil. years ago",
+        "85 mil. years ago",
+        "96 mil. years ago"
+    ]
+},
+{
+    numb: 18,
+    question: "What animal has the most legs ?",
+    answer: "millipede",
+    options: [
+        "snake",
+        "millipede",
+        "horse",
+        "pig"
+    ]
+},
+{
+    numb: 19,
+    question: "What is the most viewed video on youtube ? ",
+    answer: "Baby Shark Dance",
+    options: [
+        "Despacito",
+        "Shape of You",
+        "See you again",
+        "Baby Shark Dance"
+    ]
+},
+{
+    numb: 20,
+    question: "How old is the  oldest living person known ?",
+    answer: "118 years",
+    options: [
+        "109 years",
+        "150 years",
+        "118 years",
+        "98 years"
+    ]
+},
+
+];
