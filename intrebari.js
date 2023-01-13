@@ -88,7 +88,7 @@ let questions = [{
     },
     {
         numb: 9,
-        question: "What is the most popular longery car brand ?",
+        question: "What is the most popular luxury car brand ?",
         answer: "Mercedes Benz",
         options: [
             "Tesla",
